@@ -1,0 +1,8 @@
+Notes from 06/24:
+
+    1) Compare the Previous year data from Princeton, and compare the results to validate same speakers, and text: Analyze Bias
+    2) Go through the https://github.com/unitedstates/congressional-record code, and compare how the speaker names extraction method differ
+    3) Send output of one day to Tamara
+    4) Compare the data with Previous years
+    5) Upload the working code base to GitHub
+    6) Check the hienbound zip files in google drive: Tamara Uploaded
